@@ -1,0 +1,71 @@
+[ {
+  "buildOrder" : 10,
+  "reportUrl" : "http://localhost:8080/job/job/LetsKodeItPython/10/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 125246
+  }
+}, {
+  "buildOrder" : 9,
+  "reportUrl" : "http://localhost:8080/job/job/LetsKodeItPython/9/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 533109
+  }
+}, {
+  "buildOrder" : 8,
+  "reportUrl" : "http://localhost:8080/job/job/LetsKodeItPython/8/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 288332
+  }
+}, {
+  "buildOrder" : 7,
+  "reportUrl" : "http://localhost:8080/job/job/LetsKodeItPython/7/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 6381557
+  }
+}, {
+  "buildOrder" : 6,
+  "reportUrl" : "http://localhost:8080/job/job/LetsKodeItPython/6/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 5925643
+  }
+}, {
+  "buildOrder" : 5,
+  "reportUrl" : "http://localhost:8080/job/job/LetsKodeItPython/5/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 5925643
+  }
+}, {
+  "buildOrder" : 4,
+  "reportUrl" : "http://localhost:8080/job/job/LetsKodeItPython/4/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 5628677
+  }
+}, {
+  "buildOrder" : 3,
+  "reportUrl" : "http://localhost:8080/job/job/LetsKodeItPython/3/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 52468
+  }
+}, {
+  "buildOrder" : 2,
+  "reportUrl" : "http://localhost:8080/job/job/LetsKodeItPython/2/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 52468
+  }
+}, {
+  "buildOrder" : 1,
+  "reportUrl" : "http://localhost:8080/job/job/LetsKodeItPython/1/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 52468
+  }
+} ]

@@ -1,0 +1,12 @@
+INFO     LoginPage:selenium_driver.py:68 Element Found with locator: Login and  locatorType: linktext
+INFO     LoginPage:selenium_driver.py:88 Clicked on element with locator: Login locatorType: linktext
+INFO     LoginPage:selenium_driver.py:68 Element Found with locator: user_email and  locatorType: id
+INFO     LoginPage:selenium_driver.py:97 Sent data on element with locator: user_email locatorType: id
+INFO     LoginPage:selenium_driver.py:68 Element Found with locator: user_password and  locatorType: id
+INFO     LoginPage:selenium_driver.py:97 Sent data on element with locator: user_password locatorType: id
+INFO     LoginPage:selenium_driver.py:68 Element Found with locator: commit and  locatorType: name
+INFO     LoginPage:selenium_driver.py:88 Clicked on element with locator: commit locatorType: name
+INFO     LoginPage:selenium_driver.py:68 Element Found with locator: //div[contains(text(), 'Invalid email or password.')] and  locatorType: xpath
+INFO     LoginPage:selenium_driver.py:117 Element Found
+INFO     TStatus:teststatus.py:33 ### VERIFICATION SUCCESSFUL :: + Login is not successful
+INFO     TStatus:teststatus.py:67 test_invalidLogin ### TEST SUCCESSFUL

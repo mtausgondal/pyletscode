@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "TK-LPT-174",
+    "children" : [ {
+      "name" : "9812-MainThread",
+      "children" : [ {
+        "name" : "test_invalidLogin",
+        "uid" : "c13382408882112a",
+        "parentUid" : "94dcb896d254a267eef9728fe389bb78",
+        "status" : "passed",
+        "time" : {
+          "start" : 1599229369476,
+          "stop" : 1599229494722,
+          "duration" : 125246
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "94dcb896d254a267eef9728fe389bb78"
+    } ],
+    "uid" : "67e83902fd84ee97039e8b8e13f4f412"
+  } ]
+}

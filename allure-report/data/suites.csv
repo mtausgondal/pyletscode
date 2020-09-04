@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Sep 04 19:22:49 PKT 2020","Fri Sep 04 19:24:54 PKT 2020","125246","tests.home","login_tests","LoginTests","","","test_invalidLogin","Validate let's kode it login with invalid credentionals"

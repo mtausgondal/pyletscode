@@ -1,0 +1,304 @@
+{
+  "uid" : "c13382408882112a",
+  "name" : "test_invalidLogin",
+  "fullName" : "tests.home.login_tests.LoginTests#test_invalidLogin",
+  "historyId" : "9cab233c55c680b58a97237561c0ce2d",
+  "time" : {
+    "start" : 1599229369476,
+    "stop" : 1599229494722,
+    "duration" : 125246
+  },
+  "description" : "Validate let's kode it login with invalid credentionals",
+  "descriptionHtml" : "<p>Validate let's kode it login with invalid credentionals</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "classSetup",
+    "time" : {
+      "start" : 1599229369474,
+      "stop" : 1599229369474,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "onetimesetUp",
+    "time" : {
+      "start" : 1599229356710,
+      "stop" : 1599229369474,
+      "duration" : 12764
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1599229369474,
+      "stop" : 1599229369474,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "browser",
+    "time" : {
+      "start" : 1599229356710,
+      "stop" : 1599229356710,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "_UnitTestCase__pytest_class_setup",
+    "time" : {
+      "start" : 1599229356710,
+      "stop" : 1599229356710,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "Validate let's kode it login with invalid credentionals",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a6796168e798a7dc",
+      "name" : "log",
+      "source" : "a6796168e798a7dc.txt",
+      "type" : "text/plain",
+      "size" : 1181
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ {
+    "name" : "onetimesetUp::0",
+    "time" : {
+      "start" : 1599229494731,
+      "stop" : 1599229497342,
+      "duration" : 2611
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "setUp::0",
+    "time" : {
+      "start" : 1599229494723,
+      "stop" : 1599229494723,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "_UnitTestCase__pytest_class_setup::0",
+    "time" : {
+      "start" : 1599229497346,
+      "stop" : 1599229497347,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "minor"
+  }, {
+    "name" : "tag",
+    "value" : "run(order=1)"
+  }, {
+    "name" : "tag",
+    "value" : "@pytest.mark.usefixtures('onetimesetUp', 'setUp')"
+  }, {
+    "name" : "parentSuite",
+    "value" : "tests.home"
+  }, {
+    "name" : "suite",
+    "value" : "login_tests"
+  }, {
+    "name" : "subSuite",
+    "value" : "LoginTests"
+  }, {
+    "name" : "host",
+    "value" : "TK-LPT-174"
+  }, {
+    "name" : "thread",
+    "value" : "9812-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.home.login_tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "minor",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 8,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 10
+      },
+      "items" : [ {
+        "uid" : "3638e05d9dff432f",
+        "reportUrl" : "http://localhost:8080/job/job/LetsKodeItPython/9/allure/#testresult/3638e05d9dff432f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1599228552747,
+          "stop" : 1599228678397,
+          "duration" : 125650
+        }
+      }, {
+        "uid" : "599e1e1a83da16b7",
+        "reportUrl" : "http://localhost:8080/job/job/LetsKodeItPython/8/allure/#testresult/599e1e1a83da16b7",
+        "status" : "failed",
+        "statusDetails" : "AssertionError",
+        "time" : {
+          "start" : 1599228416288,
+          "stop" : 1599228433620,
+          "duration" : 17332
+        }
+      }, {
+        "uid" : "5815a6d91d4482cd",
+        "reportUrl" : "http://localhost:8080/job/job/LetsKodeItPython/7/allure/#testresult/5815a6d91d4482cd",
+        "status" : "failed",
+        "statusDetails" : "AssertionError",
+        "time" : {
+          "start" : 1599221785933,
+          "stop" : 1599221799166,
+          "duration" : 13233
+        }
+      }, {
+        "uid" : "d93621d05e7a5",
+        "reportUrl" : "http://localhost:8080/job/job/LetsKodeItPython/6/allure/#testresult/d93621d05e7a5",
+        "status" : "failed",
+        "statusDetails" : "AssertionError",
+        "time" : {
+          "start" : 1599221785933,
+          "stop" : 1599221799166,
+          "duration" : 13233
+        }
+      }, {
+        "uid" : "c612cb21a9d6b1dc",
+        "reportUrl" : "http://localhost:8080/job/job/LetsKodeItPython/5/allure/#testresult/c612cb21a9d6b1dc",
+        "status" : "failed",
+        "statusDetails" : "AssertionError",
+        "time" : {
+          "start" : 1599221785933,
+          "stop" : 1599221799166,
+          "duration" : 13233
+        }
+      }, {
+        "uid" : "513225d297c421cb",
+        "reportUrl" : "http://localhost:8080/job/job/LetsKodeItPython/4/allure/#testresult/513225d297c421cb",
+        "status" : "failed",
+        "statusDetails" : "AssertionError",
+        "time" : {
+          "start" : 1599221785933,
+          "stop" : 1599221799166,
+          "duration" : 13233
+        }
+      }, {
+        "uid" : "4dc0cdc32ff389e0",
+        "reportUrl" : "http://localhost:8080/job/job/LetsKodeItPython/3/allure/#testresult/4dc0cdc32ff389e0",
+        "status" : "failed",
+        "statusDetails" : "AssertionError",
+        "time" : {
+          "start" : 1599221785933,
+          "stop" : 1599221799166,
+          "duration" : 13233
+        }
+      }, {
+        "uid" : "1ae058efa5fbf2b",
+        "reportUrl" : "http://localhost:8080/job/job/LetsKodeItPython/2/allure/#testresult/1ae058efa5fbf2b",
+        "status" : "failed",
+        "statusDetails" : "AssertionError",
+        "time" : {
+          "start" : 1599221785933,
+          "stop" : 1599221799166,
+          "duration" : 13233
+        }
+      }, {
+        "uid" : "875da6ff7e59d26c",
+        "reportUrl" : "http://localhost:8080/job/job/LetsKodeItPython/1/allure/#testresult/875da6ff7e59d26c",
+        "status" : "failed",
+        "statusDetails" : "AssertionError",
+        "time" : {
+          "start" : 1599221785933,
+          "stop" : 1599221799166,
+          "duration" : 13233
+        }
+      } ]
+    },
+    "tags" : [ "@pytest.mark.usefixtures('onetimesetUp', 'setUp')", "run(order=1)" ]
+  },
+  "source" : "c13382408882112a.json",
+  "parameterValues" : [ ]
+}

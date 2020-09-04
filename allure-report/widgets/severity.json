@@ -1,0 +1,11 @@
+[ {
+  "uid" : "c13382408882112a",
+  "name" : "test_invalidLogin",
+  "time" : {
+    "start" : 1599229369476,
+    "stop" : 1599229494722,
+    "duration" : 125246
+  },
+  "status" : "passed",
+  "severity" : "minor"
+} ]

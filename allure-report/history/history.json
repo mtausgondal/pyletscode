@@ -1,0 +1,212 @@
+{
+  "9cab233c55c680b58a97237561c0ce2d" : {
+    "statistic" : {
+      "failed" : 8,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 10
+    },
+    "items" : [ {
+      "uid" : "c13382408882112a",
+      "reportUrl" : "http://localhost:8080/job/job/LetsKodeItPython/10/allure/#testresult/c13382408882112a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599229369476,
+        "stop" : 1599229494722,
+        "duration" : 125246
+      }
+    }, {
+      "uid" : "3638e05d9dff432f",
+      "reportUrl" : "http://localhost:8080/job/job/LetsKodeItPython/9/allure/#testresult/3638e05d9dff432f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599228552747,
+        "stop" : 1599228678397,
+        "duration" : 125650
+      }
+    }, {
+      "uid" : "599e1e1a83da16b7",
+      "reportUrl" : "http://localhost:8080/job/job/LetsKodeItPython/8/allure/#testresult/599e1e1a83da16b7",
+      "status" : "failed",
+      "statusDetails" : "AssertionError",
+      "time" : {
+        "start" : 1599228416288,
+        "stop" : 1599228433620,
+        "duration" : 17332
+      }
+    }, {
+      "uid" : "5815a6d91d4482cd",
+      "reportUrl" : "http://localhost:8080/job/job/LetsKodeItPython/7/allure/#testresult/5815a6d91d4482cd",
+      "status" : "failed",
+      "statusDetails" : "AssertionError",
+      "time" : {
+        "start" : 1599221785933,
+        "stop" : 1599221799166,
+        "duration" : 13233
+      }
+    }, {
+      "uid" : "d93621d05e7a5",
+      "reportUrl" : "http://localhost:8080/job/job/LetsKodeItPython/6/allure/#testresult/d93621d05e7a5",
+      "status" : "failed",
+      "statusDetails" : "AssertionError",
+      "time" : {
+        "start" : 1599221785933,
+        "stop" : 1599221799166,
+        "duration" : 13233
+      }
+    }, {
+      "uid" : "c612cb21a9d6b1dc",
+      "reportUrl" : "http://localhost:8080/job/job/LetsKodeItPython/5/allure/#testresult/c612cb21a9d6b1dc",
+      "status" : "failed",
+      "statusDetails" : "AssertionError",
+      "time" : {
+        "start" : 1599221785933,
+        "stop" : 1599221799166,
+        "duration" : 13233
+      }
+    }, {
+      "uid" : "513225d297c421cb",
+      "reportUrl" : "http://localhost:8080/job/job/LetsKodeItPython/4/allure/#testresult/513225d297c421cb",
+      "status" : "failed",
+      "statusDetails" : "AssertionError",
+      "time" : {
+        "start" : 1599221785933,
+        "stop" : 1599221799166,
+        "duration" : 13233
+      }
+    }, {
+      "uid" : "4dc0cdc32ff389e0",
+      "reportUrl" : "http://localhost:8080/job/job/LetsKodeItPython/3/allure/#testresult/4dc0cdc32ff389e0",
+      "status" : "failed",
+      "statusDetails" : "AssertionError",
+      "time" : {
+        "start" : 1599221785933,
+        "stop" : 1599221799166,
+        "duration" : 13233
+      }
+    }, {
+      "uid" : "1ae058efa5fbf2b",
+      "reportUrl" : "http://localhost:8080/job/job/LetsKodeItPython/2/allure/#testresult/1ae058efa5fbf2b",
+      "status" : "failed",
+      "statusDetails" : "AssertionError",
+      "time" : {
+        "start" : 1599221785933,
+        "stop" : 1599221799166,
+        "duration" : 13233
+      }
+    }, {
+      "uid" : "875da6ff7e59d26c",
+      "reportUrl" : "http://localhost:8080/job/job/LetsKodeItPython/1/allure/#testresult/875da6ff7e59d26c",
+      "status" : "failed",
+      "statusDetails" : "AssertionError",
+      "time" : {
+        "start" : 1599221785933,
+        "stop" : 1599221799166,
+        "duration" : 13233
+      }
+    } ]
+  },
+  "a087e11810691fe36815f4d3e569a3a8" : {
+    "statistic" : {
+      "failed" : 9,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 9
+    },
+    "items" : [ {
+      "uid" : "925e61e36e7f620a",
+      "reportUrl" : "http://localhost:8080/job/job/LetsKodeItPython/9/allure/#testresult/925e61e36e7f620a",
+      "status" : "failed",
+      "statusDetails" : "AssertionError",
+      "time" : {
+        "start" : 1599228145288,
+        "stop" : 1599228167490,
+        "duration" : 22202
+      }
+    }, {
+      "uid" : "83bce9090f63f08f",
+      "reportUrl" : "http://localhost:8080/job/job/LetsKodeItPython/8/allure/#testresult/83bce9090f63f08f",
+      "status" : "failed",
+      "statusDetails" : "AssertionError",
+      "time" : {
+        "start" : 1599228145288,
+        "stop" : 1599228167490,
+        "duration" : 22202
+      }
+    }, {
+      "uid" : "fb390f3e502b9857",
+      "reportUrl" : "http://localhost:8080/job/job/LetsKodeItPython/7/allure/#testresult/fb390f3e502b9857",
+      "status" : "failed",
+      "statusDetails" : "AssertionError",
+      "time" : {
+        "start" : 1599228145288,
+        "stop" : 1599228167490,
+        "duration" : 22202
+      }
+    }, {
+      "uid" : "4bd8dc5cdc33b7fc",
+      "reportUrl" : "http://localhost:8080/job/job/LetsKodeItPython/6/allure/#testresult/4bd8dc5cdc33b7fc",
+      "status" : "failed",
+      "statusDetails" : "AssertionError",
+      "time" : {
+        "start" : 1599227690216,
+        "stop" : 1599227711576,
+        "duration" : 21360
+      }
+    }, {
+      "uid" : "ffbf3c74b46d039",
+      "reportUrl" : "http://localhost:8080/job/job/LetsKodeItPython/5/allure/#testresult/ffbf3c74b46d039",
+      "status" : "failed",
+      "statusDetails" : "AssertionError",
+      "time" : {
+        "start" : 1599227690216,
+        "stop" : 1599227711576,
+        "duration" : 21360
+      }
+    }, {
+      "uid" : "b434c53e7f76139b",
+      "reportUrl" : "http://localhost:8080/job/job/LetsKodeItPython/4/allure/#testresult/b434c53e7f76139b",
+      "status" : "failed",
+      "statusDetails" : "AssertionError",
+      "time" : {
+        "start" : 1599227393027,
+        "stop" : 1599227414610,
+        "duration" : 21583
+      }
+    }, {
+      "uid" : "ff691db4de1ff1ff",
+      "reportUrl" : "http://localhost:8080/job/job/LetsKodeItPython/3/allure/#testresult/ff691db4de1ff1ff",
+      "status" : "failed",
+      "statusDetails" : "AssertionError",
+      "time" : {
+        "start" : 1599221799186,
+        "stop" : 1599221838401,
+        "duration" : 39215
+      }
+    }, {
+      "uid" : "819fd16db8be8717",
+      "reportUrl" : "http://localhost:8080/job/job/LetsKodeItPython/2/allure/#testresult/819fd16db8be8717",
+      "status" : "failed",
+      "statusDetails" : "AssertionError",
+      "time" : {
+        "start" : 1599221799186,
+        "stop" : 1599221838401,
+        "duration" : 39215
+      }
+    }, {
+      "uid" : "4fd9dba5c315851a",
+      "reportUrl" : "http://localhost:8080/job/job/LetsKodeItPython/1/allure/#testresult/4fd9dba5c315851a",
+      "status" : "failed",
+      "statusDetails" : "AssertionError",
+      "time" : {
+        "start" : 1599221799186,
+        "stop" : 1599221838401,
+        "duration" : 39215
+      }
+    } ]
+  }
+}
